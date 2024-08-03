@@ -12,3 +12,9 @@ print(middle_ratings)
 
 last_two_ratings = all_ratings[-2:]
 print(last_two_ratings)
+
+my_ratings.append(7.7)
+print(my_ratings)
+
+other_ratings.pop()
+print(other_ratings)
